@@ -3,6 +3,10 @@ echo "We are from batch-24 and learning git/gihub"
 echo "Happy weekend"
 echo "We are learning git"
 echo "Husband: I don't want to travel"
+<<<<<<< HEAD
 echo "Wife: I want to travel-1233"
+=======
+echo "Wife: I want to travel-1233"
+>>>>>>> main
 
 
