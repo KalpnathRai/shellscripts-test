@@ -5,8 +5,6 @@ echo "We are learning git"
 echo "Husband: I don't want to travel"
 <<<<<<< HEAD
 echo "Wife: I want to travel-1233"
-=======
-echo "Wife: I want to travel-1233"
 >>>>>>> main
 
 
